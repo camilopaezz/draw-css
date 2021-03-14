@@ -8,6 +8,7 @@ body {
   align-items: center;
   background-color: #f73e46;
   overflow-x: hidden;
+  min-height: 900px;
 }
 
 .face {
